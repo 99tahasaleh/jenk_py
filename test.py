@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import unittest
 import app
 
@@ -30,4 +31,3 @@ if __name__ == '__main__':
     unittest.main(testRunner=runner)
     ###########################################
     unittest.main()
-
